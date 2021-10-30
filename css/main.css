@@ -344,6 +344,7 @@ header .badges .badge {
   display: flex;
 }
 .notice .notice-line .inner__left {
+  overflow: hidden;
   width: 60%;
   height: 100%;
   background-color: #333;
